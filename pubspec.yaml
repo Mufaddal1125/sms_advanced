@@ -34,6 +34,3 @@ flutter:
         pluginClass: SmsAdvancedPlugin
       ios:
         pluginClass: UssdAdvancedPlugin
-      web:
-        pluginClass: SmsAdvancedPlugin
-        fileName: sms_advanced_web.dart
